@@ -1,0 +1,12 @@
+NJFVJKFJVSV
+
+
+
+.\venv\Scripts\python.exe gesture_mouse_infinite.py
+
+.\venv\Scripts\python.exe scifi_gesture_controller.py
+
+
+python scifi_gesture_controller.py
+python scifi_gesture_controller.py
+python scifi_gesture_controller.py
